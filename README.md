@@ -3,7 +3,7 @@
 # Construir node_modules
 npm install
 
-#Correr Server
+# Correr Server
 ng serve
 
 
